@@ -2,7 +2,7 @@
 
 Subscription analytics with a clear path from a revenue headline to the customer records behind it.
 
-[![Demo](https://img.shields.io/badge/Demo-Open-635bdf?style=flat-square)](#demo) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
+[![Demo](https://img.shields.io/badge/Demo-Open-635bdf?style=flat-square)](https://forma-demo-brazhdev.pages.dev/) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
 
 ![Revenue overview](artifacts/portfolio/desktop/01-overview.png)
 
@@ -51,4 +51,4 @@ Next.js 16, React 19, TypeScript, shadcn/ui, Tailwind CSS, Recharts and TanStack
 
 ## Demo
 
-Interactive demo coming soon.
+[Open the interactive demo](https://forma-demo-brazhdev.pages.dev/). Choose a demo account on the sign-in screen.
